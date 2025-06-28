@@ -1,2 +1,2 @@
 # SimpleBankingSystem
-This code creates a basic banking system where users can withdraw, deposit, and check their account balance. It features a Bank class that manages customer data and verifies card information for secure access.
+The code implements a simple banking system that allows users to perform basic operations such as withdrawing money, depositing funds, and checking their account balance. It uses a Bank class to manage customer data, verify card information, and provide a menu-driven interface for banking services. Users interact with the system by entering their card number and CVV to access their accounts.
